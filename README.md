@@ -8,6 +8,10 @@
 ## [Live Demo - Netlify]()
 <!-- ## [Live Demo ]() -->
 
+## Live Presentation Video
+
+[Link] (https://www.loom.com/share/c9a0a04145704549b2f74940c8ba0802)
+
 ## Milestones completed:
 - Create a new React App using CRA.
 - Install app dependencies.
