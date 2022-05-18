@@ -15,7 +15,7 @@ exports[`Render components render NavBar 1`] = `
     <h1
       className="header1"
     >
-      CoviData
+      AFRI-COVID-STAT
     </h1>
     <div
       className="navIcons"

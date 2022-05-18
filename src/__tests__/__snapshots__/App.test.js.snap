@@ -18,7 +18,7 @@ Object {
           <h1
             class="header1"
           >
-            CoviData
+            AFRI-COVID-STAT
           </h1>
           <div
             class="navIcons"
@@ -124,7 +124,7 @@ Object {
         <h1
           class="header1"
         >
-          CoviData
+          AFRI-COVID-STAT
         </h1>
         <div
           class="navIcons"
