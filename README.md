@@ -1,19 +1,18 @@
-## TITLE
-
-## Table of Contents
-
+## Covid Data App
 
 ## About Project
 
-
-![]()
-![]()
-![]()
-
-
+- This is a mobile web application that displays a list of Covid Data generated for the african continent from an API.
+-This API provides data on COVID-19 .
 
 ## [Live Demo - Netlify]()
 <!-- ## [Live Demo ]() -->
+
+## Milestones completed:
+- Create a new React App using CRA.
+- Install app dependencies.
+- Build file structure for app.
+- Create routes and navigation in app.
 
 ## Built With
 
@@ -76,3 +75,7 @@ Feel free to check the [issues page](../../issues)
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
