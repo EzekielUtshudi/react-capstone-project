@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Lato', 'Gill Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e70983;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav1 {
+  background-color: #fd33a2;
+  padding: 24px;
+  color: white;
+}
+
+.nav2 {
+  background-color: #e70983;
+  padding: 24px;
+  color: white;
+  text-align: center;
+}
+
+.header2 {
+  margin: auto;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.dataUL {
+  display: grid;
+  display: -ms-grid;
+  grid-template-columns: 50% 50%;
+  -ms-grid-columns: 50% 50%;
+}
+
+.dataUL a {
+  padding: 20px;
+  background-color: #e70983;
+  color: white;
+}
+
+.dataUL a:nth-child(4n),
+.dataUL a:nth-child(4n + 1) {
+  background-color: #fd33a2;
+  color: white;
+}
+
+.goBack {
+  width: 25px;
+  height: 25px;
+}
+
+.countryDetails {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flag {
+  width: 60px;
+  height: 40px;
+}
+
+h1 {
+  font-weight: bold;
+  margin: 0;
+}
+
+.header1 {
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.dataContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  color: white;
+  background-color: #e70983;
+}
+
+.today {
+  list-style: none;
+}
+
+.total {
+  list-style: none;
+}
+
+ul h3 {
+  font-size: 38px;
+}
+
+ul li {
+  font-size: 20px;
+}
+
+.input-search {
+  border: none;
+  background-color: transparent;
+  height: 25px;
+}
+
+::placeholder {
+  color: black;
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  padding: 25px;
+  background-color: lightblue;
+}
+
+.continent {
+  color: white;
+  text-align: center;
+  margin-bottom: 15px;
+}
