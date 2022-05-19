@@ -5,7 +5,7 @@
 - This is a mobile web application that displays a list of Covid Data generated for the african continent from an API.
 -This API provides data on COVID-19 .
 
-## [Live Demo - Netlify]()
+## [Live Demo - Netlify](https://africa-covid-stats.netlify.app/)
 <!-- ## [Live Demo ]() -->
 
 ## Live Presentation Video
