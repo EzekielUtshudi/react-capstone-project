@@ -7,7 +7,7 @@ const GetStats = (payload) => ({
   payload,
 });
 
-const StatsReducer = (state = initialState, action) => {
+const StatsReducer = (state = initialState, action = { type: 'action' }) => {
   switch (action.type) {
     case GET_STATS:
       return [...state, ...action.payload];
